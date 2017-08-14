@@ -1,0 +1,9 @@
+C:\projects\securityarchitecture\bin\Debug\netcoreapp1.1\securityarchitecture.deps.json
+C:\projects\securityarchitecture\bin\Debug\netcoreapp1.1\securityarchitecture.runtimeconfig.json
+C:\projects\securityarchitecture\bin\Debug\netcoreapp1.1\securityarchitecture.runtimeconfig.dev.json
+C:\projects\securityarchitecture\bin\Debug\netcoreapp1.1\securityarchitecture.dll
+C:\projects\securityarchitecture\bin\Debug\netcoreapp1.1\securityarchitecture.pdb
+C:\projects\securityarchitecture\obj\Debug\netcoreapp1.1\securityarchitecture.AssemblyInfo.cs
+C:\projects\securityarchitecture\obj\Debug\netcoreapp1.1\securityarchitecture.dll
+C:\projects\securityarchitecture\obj\Debug\netcoreapp1.1\securityarchitecture.pdb
+C:\projects\securityarchitecture\obj\Debug\netcoreapp1.1\securityarchitecture.csprojResolveAssemblyReference.cache
